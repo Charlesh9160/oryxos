@@ -9,3 +9,4 @@ Notes and usage details for oryxos.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
